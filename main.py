@@ -1,4 +1,4 @@
-# - Modifier l'ordre des questions Excel
+# - Modifier l'ordre des questions Excel test
 # - Créer une fin de jeu
 # - Créer un tableau des scores à chaque Phase
 # - Fonction checkPlayerNumber() dans Checks
